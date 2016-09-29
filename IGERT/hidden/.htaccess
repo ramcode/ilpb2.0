@@ -1,0 +1,7 @@
+AuthName "Enter the secret password"
+AuthType Basic
+AuthUserFile /usr/local/info/Photonics/IGERT/hidden/.htpasswd
+
+Order deny,allow
+Allow from all
+Require valid-user 

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="js/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+    </script>
+    <script src="js/app.js" type="text/javascript">
+    </script>
+    <title>The Institute for Lasers, Photonics and Biophotonics - University at Buffalo</title>
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="container-fluid">
+            <div id="ub-header">
+            </div>
+        </div>
+        <div class="container-main">
+            <div id="navbar">
+            </div>
+            <div id="container-title">
+            </div>
+            <div class="page-content">
+                <div class="row">
+                    <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+                        <div class="content">
+                            <!-- CONTENT -->
+                            <!-- InstanceBeginEditable name="Content" -->
+                            <h4 class="page-title"> News </h3>
+                            <p id="tour"><strong>Dr. Prasad receives President&rsquo;s Medal at University Commencement.</strong></p>
+                            <p align="justify">
+                                Distinguished University at Buffalo faculty member Dr. Paras Prasad receives the UB President&rsquo;s Medal in recognition of extraordinary service to the university during the 170th annual University Commencement. The UB President&rsquo;s Medal, first presented in 1990, recognizes outstanding scholarly or artistic achievements, humanitarian acts, contributions of time or treasure, exemplary leadership or any other major contribution to the development of the University at Buffalo and the quality of life in the UB community.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href="http://www.buffalo.edu/news/releases/2016/03/036.html">Read full article on UB news</a>   
+</span>
+                            </p>
+                            <p id="tour"><strong>Dr. Prasad receives SPIE Gold Medal.</strong></p>
+                            <p align="justify">
+                                The award, the society&rsquo;s highest honor, is awarded to just one individual each year. It will be presented to Dr. Prasad this August in recognition of his “numerous, world renowned, pioneering contributions to nonlinear optics, nanophotonics and biophotonics, as well as over three decades of outstanding service to SPIE.” Dr. Prasad serves as executive director of the Institute for Lasers, Photonics and Biophotonics (ILPB). He is a SUNY Distinguished Professor in the departments of Chemistry, Physics, Medicine and Electrical Engineering.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href="http://www.buffalo.edu/news/releases/2016/03/036.html">Read full article on UB news</a>   
+</span>
+                            </p>
+                            <p id="tour"><strong>Onion-like layers help this efficient new nanoparticle glow.</strong></p>
+                            <p align="justify">
+                                A new, onion-like nanoparticle could open new frontiers in biomaging, solar energy harvesting and light-based security techniques. When it comes to bioimaging, near-infrared light could be used to activate the light-emitting nanoparticles deep inside the body, providing high-contrast images of areas of interest. In the realm of security, nanoparticle-infused inks could be incorporated into currency designs; such ink would be invisible to the naked eye, but glow blue when hit by a low-energy laser pulse — a trait very difficult for counterfeiters to reproduce.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href="http://www.buffalo.edu/news/releases/2015/11/017.html">Read full article on UB news</a>   
+</span>
+                            </p>
+                            <p id="tour"><strong>Prasad was recognized with first UB Innovation Impact Award.</strong></p>
+                            <p align="justify">
+                                The University at Buffalo will present its inaugural Innovation Impact Award to Paras Prasad, PhD, executive director of the Institute for Lasers, Photonics and Biophotonics at UB. Prasad, a SUNY Distinguished Professor and one of the world's pre-eminent scientists in nanomedicine, will be recognized for his work in developing the use of magnetic and laser-activated nanoparticles for cancer diagnosis and treatment.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href="http://www.buffalo.edu/news/releases/2015/02/047.html">Read full article on UB news</a>   
+</span>
+                            </p>
+                            <p id="tour"><strong>One nanoparticle, six types of medical imaging.</strong></p>
+                            <p align="justify">
+                                Using two biocompatible parts, University at Buffalo researchers and their colleagues have designed a nanoparticle that can be detected by six medical imaging techniques:
+                                <ul>
+                                    <li>computed tomography (CT) scanning;</li>
+                                    <li>positron emission tomography (PET) scanning;</li>
+                                    <li>photoacoustic imaging;</li>
+                                    <li>fluorescence imaging;</li>
+                                    <li>upconversion imaging; and</li>
+                                    <li>Cerenkov luminescence imaging.</li>
+                                </ul>
+                                In the future, patients could receive a single injection of the nanoparticles to have all six types of imaging done.
+                                <br />
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href="http://www.buffalo.edu/news/releases/2015/01/015.html">Read full article on UB news</a>   
+</span>
+                            </p>
+                            <p id="tour"><strong>New Approach to Monitoring Changes in Cellular Structure May Lead to Early Detection of Cancerous Cells.</strong></p>
+                            <p align="justify">
+                                Collaborative Roswell Park/UB team uses Raman microspectroscopy to monitor drug action in single-cell assay. Researchers have developed a new approach to characterizing and monitoring changes in cellular structure. The new type of single-cell-based assay, developed by researchers at Roswell Park Cancer Institute (RPCI) and the University at Buffalo (UB), may provide a tool for detecting cancerous cells early and monitoring cell-to-cell variations in cancer progression or in response to pharmaceutical drugs.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href="https://www.roswellpark.org/media/news/new-approach-monitoring-changes-cellular-structure-may-lead-early-detection-cancerous">Read more</a>   
+</span>
+                            </p>
+                            <p id="tour"><strong>New technology could expand use of photodynamic therapy.</strong></p>
+                            <p align="justify">
+                                Photodynamic therapy (PDT) is an effective treatment for easily accessible tumors, such as oral and skin cancer.Doctors have used PDT to treat cancer for decades. Cancer cells absorb the drug, which is delivered to the tumor via the bloodstream or locally. Visible light then is applied to the site, which causes the drug to react with oxygen and creates a burst of free radicals that kill the tumor. Unfortunately, visible light does not penetrate tissue well. Conversely, near-infrared light penetrates tissue well but doesn't activate the drugs efficiently. To solve this problem, some researchers are developing drugs that absorb near-infrared light. This method is limited, however, because stable and efficient near-infrared absorbing photosenzitizers are notoriously difficult to synthesize. The UB-led team took a different approach, which uses the tumor's natural environment to tune the light into the necessary wavelengths.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+<a href=" http://www.buffalo.edu/ubreporter/research/news.host.html/content/shared/university/news/ub-reporter-articles/stories/2014/May/photodynamic_therapy.detail.html#sthash.Uk5SFj96.dpuf">Read full article on UB News</a>
+</span>
+                            </p>
+                            <p id="silicon"><strong>Prasad receives honorary doctorate from Sweden&rsquo;s Royal Institute of Technology.</strong></p>
+                            <p align="justify">
+                                UB faculty member Paras Prasad has received an honorary doctorate from the Royal Institute of Technology in Sweden (KTH) for his pioneering work in areas including the use of light-based technologies to address important, global health problems. This achievement was highlighted by the Buffalo News newspaper in their <a href="http://www.buffalonews.com/apps/pbcs.dll/article?avis=BN&date=20140125&category=CITYANDREGION&lopenr=140129198&Ref=AR&profile=1167">"Honor Roll"</a>.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/ubreporter/spotlight/profiles-host.host.html/content/shared/university/news/ub-reporter-articles/stories/2013/profile_prasad.detail.html">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <p id="tour"><strong>UB spinoff Nanobiotix looks to bring cancer treatment to market.</strong></p>
+                            <p align="justify">
+                                Successful intermediate clinical trial in February generates boost in company stock price - and new funding for UB research. "It was an exciting field with a lot of great potential; at this time, it was very new, and everything needed to be done," Levy remembers, "I moved to UB because of Dr. Prasad, who proposed to me to develop my ideas in his lab. What I found there was a great place with diverse expertise in biology, physics, chemistry and medicine. This environment was quite unique 15 years ago, and clearly helped me in developing those concepts."
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="  http://www.buffalo.edu/news/releases/2014/05/035.html#sthash.DvdSSV2W.dpuf">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p id="silicon"><strong>In a new study, the silicon nanocrystals had no toxic effects in non-human primates</strong></p>
+                            <p align="left">
+                                Tiny silicon crystals caused no health problems in monkeys three months after large doses were injected, marking a step forward in the quest to bring such materials into clinics as biomedical imaging agents, according to a new study. The findings, <a href="http://pubs.acs.org/doi/abs/10.1021/nn4029234">published online July 10 in the journal ACS Nano</a>, suggest that the silicon nanocrystals, known as quantum dots, may be a safe tool for diagnostic imaging in humans. The nanocrystals absorb and emit light in the near-infrared part of the spectrum, a quality that makes them ideal for seeing deeper into tissue than traditional fluorescence-based techniques.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/releases/2013/07/037.html">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <p id="silicon"><strong>New technology could help power portable devices like satellite phones and radios</strong></p>
+                            <p align="left">
+                                According to University at Buffalo researchers,super-small particles of silicon react with water to produce hydrogen almost instantaneously. in a series of experiments, the scientists created spherical silicon particles about 10 nanometers in diameter. When combined with water, these particles reacted to form silicic acid (a nontoxic byproduct) and hydrogen - a potential source of energy for fuel cells.The reaction didn't require any light, heat or electricity, and also created hydrogen about 150 times faster than similar reactions using silicon particles 100 nanometers wide, and 1,000 times faster than bulk silicon, according to the study. The findings appeared online in Nano Letters on Jan. 14. The scientists were able to verify that the hydrogen they made was relatively pure by testing it successfully in a small fuel cell that powered a fan.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/releases/2013/01/017.html">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <p id="tour"><strong>Zimbabwe minister tours ILPB and COE in preparation for next steps in UB-Zimbabwe partnership</strong></p>
+                            <p align="left">
+                                The Hon. Professor Heneri Dzinotyiweyi, Zimbabwe minister of science and technology development, visited Buffalo on Tuesday, Feb. 19, to tour two University at Buffalo research facilities and discuss the vision and implementation strategy for the Zimbabwe International Nanotechnology Center (ZINC) with officials at UB, its primary academic partner.Dzinotyiweyi visited the Institute for Lasers, Photonics and Biophotonics (ILPB) and then toured UB's New York State Center of Excellence in Bioinformatics and Life Sciences.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/releases/2013/02/026.html">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="pioneering"><strong>Pioneering UB Spinoff in Nanomedicine Raises 14.2 Million Euros in IPO</strong></p>
+                            <p align="left">
+                                While conducting postdoctoral research at UB's Institute for Lasers, Photonics and Biophotonics about a decade ago, entrepreneur Laurent Levy co-invented two nanomedicine technologies for treatment and diagnosis of cancer. These two inventions became the first intellectual property that Levy used to found Nanobiotix, a French nanomedicine firm he started in 2003. This October, Nanobiotix was listed on the NYSE Euronext market after raising 14.2 million euros ($18.1 million) in an IPO.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/13798">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="glow"><strong>Nanoparticles Glow Through Thick Layer of Tissue</strong></p>
+                            <p align="left">
+                                An international research team has created unique photoluminescent nanoparticles that shine clearly through more than 3 centimeters of biological tissue -- a depth that makes them a promising tool for deep-tissue optical bioimaging. Though optical imaging is a robust and inexpensive technique commonly used in biomedical applications, current technologies lack the ability to look deep into tissue, the researchers said. This creates a demand for the development of new approaches that provide high-resolution, high-contrast optical bioimaging that doctors and scientists could use to identify tumors or other anomalies deep beneath the skin. The newly created nanoparticles consist of a nanocrystalline core containing thulium, sodium, ytterbium and fluorine, all encased inside a square, calcium-fluoride shell.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/13688">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="zimbave"><strong>UB Partners with Zimbabwe Universities to Create International Nanotechnology Center</strong></p>
+                            <p align="left">
+                                With 14 percent of Zimbabwe's population living with HIV/AIDS and tuberculosis as a co-infection, the need for new drugs and new formulations of available treatments is crucial. To address these issues, two of the University at Buffalo's leading research centers, the Institute for Lasers, Photonics and Biophotonics (ILPB), and the New York State Center of Excellence in Bioinformatics and Life Sciences have signed on to launch the Zimbabwe International Nanotechnology Center (ZINC) -- a national nanotechnology research program -- with the University of Zimbabwe (UZ) and the Chinhoyi University of Technology (CUT).
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/13694">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="Shape-Shifting"><strong>Shape-Shifting Materials are Goal of New Nanotechnology Project</strong></p>
+                            <p align="left">
+                                An international research team has received a $2.9 million grant from the Air Force Office of Scientific Research to design nanomaterials whose internal structure changes shape in response to stimuli such as heat or light.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/13534">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="primates"><strong>Good News for Nanomedicine: Quantum Dots Appear Safe in Pioneering Study on Primates</strong></p>
+                            <p align="left">
+                                A pioneering study to gauge the toxicity of quantum dots in primates has found the tiny crystals to be safe over a one-year period, a hopeful outcome for doctors and scientists seeking new ways to battle diseases like cancer through nanomedicine.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/13437">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="Head and neck cancer"><strong> New research may boost treatment of head and neck cancers</strong></p>
+                            <p align="left">
+                                Researchers at the Keck School of Medicine and the State University of New York (SUNY) at Buffalo have developed a method that increases the effectiveness of radiation therapy for head and neck cancer treatment in mouse models by more than 50 percent. The study, "Gold nanorod-sphingosine kinase siRNA nanocomplexes: a novel therapeutic tool for potent radiosensitization of head and neck cancer," was led by first author Rizwan Masood, assistant professor of research in otolaryngology, and conducted in the laboratory of Uttam Sinha, associate professor of otolaryngology at the Keck School. The research was published in the journal Integrative Biology.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://theweekly.usc.edu/detail.php?recordnum=17836"> Click here to read the entire article </a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="Nanoparticles"><strong> In the Brain, "ORMOSIL" Nanoparticles Hold Promise as a Potential Vehicle for Drug Delivery </strong></p>
+                            <p align="left">
+                                BUFFALO, N.Y. -- In the images of fruit flies, clusters of neurons are all lit up, forming a brightly glowing network of highways within the brain. It's exactly what University at Buffalo researcher Shermali Gunawardena was hoping to see: It meant that ORMOSIL, a novel class of nanoparticles, had successfully penetrated the insects' brains. And even after long-term exposure, the cells and the flies themselves remained unharmed.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/13116">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="Nanomedicine Research"><strong> Nigeria's National Universities Commission             Partners with UB's Institute for Lasers, Photonics and Biophotonics to Build Nanomedicine Research Capacity</strong></p>
+                            <p align="left">
+                                BUFFALO, N.Y. -- The National Universities Commission of Nigeria has selected the University at Buffalo's Institute for Lasers, Photonics and Biophotonics as its partner to form the Nigerian American Nanomedicine Organization, which will establish Joint Research Centers in Nigeria and at ILPB.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/12241">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <p id="Biophotonic tool"><strong> How Do Cells Die? Biophotonic Tools Reveal Real-Time Dynamics in Living Color</strong></p>
+                            <p style="font-size:12px;color:#999999"> New method can facilitate customized molecular medicine</p>
+                            <p align="left">
+                                In research featured on the cover of the current issue of Proceedings of the National Academy of Sciences, The Institute for Lasers, Photonics and Bio-photonics scientists have developed a biophotonic imaging approach capable of monitoring in real-time the transformations that cellular macromolecules undergo during programmed cell death.
+                                <br />
+                                <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/11564">Read full article on UB News</a>   
+        </span>
+                            </p>
+                            <p></p>
+                            <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <!--<p id="gold nanorods"><strong> To Attack H1N1, other Flu Viruses, Gold Nanorods Deliver Potent Payload
+</strong></p>
+<p style="font-size:12px;color:#999999"> Joint research by UB and CDC could lead to new generation of antiviral medicines</p>
+        <p align="left"><font size="2">     
+        Future pandemics of seasonal flu, H1N1 and other drug-resistant viruses may be thwarted by a potent, immune-boosting payload that is effectively delivered to cells by gold nanorods, report scientists at the University at Buffalo and the U.S. Centers for Disease Control and Prevention. The work is published in the current issue of the Proceedings of the National Academy of Sciences.
+        <br />
+        
+        <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/11387">Read full article on UB News</a>   
+        </span>
+        
+        </p>
+        
+         <p></p>
+        <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <!--<p id="addiction"><strong> To Fight Drug Addiction, UB Researchers Target the Brain with Nanoparticles </strong></p>
+        <p align="left">
+        Scientists in UB's Institute for Lasers, Photonics and Biophotonics and UB's Department of Medicine have developed a stable nanoparticle that delivers short RNA molecules in the brain to "silence" or turn off a gene that plays a critical role in many kinds of drug addiction.<br />
+        <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalo.edu/news/10003">Read full article on UB News</a> | 
+        <a href="http://www.physorg.com/news157053913.html">Read article on PHYSORG</a> | 
+        <a href="http://www.nanowerk.com/news/newsid=9760.php">Read article on Nano Werk</a> | 
+        <a href="http://www.azonano.com/news.asp?newsID=10531">Read article on AZoNano</a>
+        </span>
+        <br /><br />
+        
+        Nanotech Invention May Be Golden Bullet for Controlling Drug Addiction<br />
+        <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.fastcompany.com/blog/kit-eaton/technomix/nanotech-invention-golden-bullet-controlling-drug-addiction">Read full article on Fast Company</a>
+        </span>
+        <br /><br />
+        
+        Nanobots in the Brain<br />
+        <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.nbcnewyork.com/health/tips_info/Nanobots-in-the-Brain.html">Read full article on NBC</a>
+        </span>
+        <br /><br />
+        
+        An siRNA-gold nanorod complex that can turn off a gene that controls addiction might form the basis of a novel drug-addiction treatment<br />
+        <span align="right" style="font-size: 7.5pt;">
+        <a href="http://pubs.acs.org/isubscribe/journals/cen/87/i14/html/8714scic6.html">Read full article on C&amp;E News</a>
+        </span>
+        <br /><br />
+        
+        Study hints at new addiction therapy<br />
+        <span align="right" style="font-size: 7.5pt;">
+        <a href="http://www.buffalonews.com/cityregion/buffaloerie/story/630295.html">Read full article on Buffalo News</a>
+        </span>
+        </p>
+        
+        <p><!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <!--<p id="nanobiotix"><strong>Nanobiotix Reports 'Proof of Concept' for Its Nanoparticles in Treating Glioblastoma Multiforme (Brain Cancer)</strong></p>
+
+        <p align="left">
+<font size="2">Preclinical results demonstrate that the Company's nanoparticles-nanoPDT- selectively target tumor tissues and destroy them after activation by a laser.<br />
+<span align="right" style="font-size: 7.5pt;">
+        <a href="http://eon.businesswire.com/news/eon/20090406005723/en">Read full article on BusinessWire</a> | 
+        <a href="http://www.nanowerk.com/news/newsid=9959.php">Read article on Nano Werk</a> | 
+        <a href="http://finance.yahoo.com/news/Nanobiotix-Reports-Proof-of-bw-14856830.html">Read article on Yahoo Finance</a>
+        </span>
+ </p>
+ <p></p>
+ <!-- <hr align="center" size="10" />&nbsp;</p> -->
+                            <!--  <p class="style13"><strong> Nanophotonics Comes to China By Rachel Won        </strong></p>
+        <p align="center" class="style5"><em>Nature Photonics, September 2007, Vol.1, No.9, page 498 </em></p>
+        <p align="left" class="style5"><font size="2">The first OSA topical meeting in China was dedicated to optics on the nanoscale. Experts from
+        all over the world gathered in Hangzhou and heard how this emerging technology could help
+        healthcare, communications and energy generation.</p>
+        <p align="left" class="style5">Click <a href="docs/nature_photonics.doc" target="_blank" class="style15">here</a> to read the entire article.</p>
+        <!-- <hr align="center" size="10" />&nbsp; -->
+                            <!--   <p align="left" class="style13"><strong>Lighting the Patterns of Liquid Crystal Molecular Orientations with CARS Microscopy</strong></p>
+        <p class="style5"><font size="2.0">In the latest issue of Applied Physics Letters, a new approach to imaging of director fields in liquid crystals is reported by a collaborative research team from the University at Buffalo and the University of Colorado at Boulder. Kachynski, Kuzmin, Prasad and Smalyukh report the 3-D imaging of LC director structures using coherent anti-Stokes Raman scattering (CARS) microscopy. This method utilizes active vibrational Raman scattering to generate contrast signal and does not require doping the liquid crystal with dyes. It offers fast image acquisition, chemical selectivity and bond-orientation specificity that are all superior to that of other techniques. </p>
+        <p class="style5">Click <a href="docs/Lighting_CARS.doc" target="_blank" class="style15">here</a> to read the entire article.</p>
+      
+        <!-- <hr align="center" size="10" />&nbsp; -->
+                            <!--   <p align="left" class="style13"><strong> Hybrid Nanoparticles for Multimodal Medical Imaging </strong></p>
+        <p class="style5"><font size="2">Since X-rays were discovered more than a century ago, triggering a revolution in medical imaging, clinicians have sought more powerful ways to &quot;see&quot; into the human body. </p>
+        <p class="style5">Now, with a $1.1 million grant from the John R. Oishei Foundation, researchers in the University at Buffalo's Institute for Lasers, Photonics and Biophotonics are turning their expertise in nanomedicine to the development of new, nanoparticle-based multi-probe systems, launching a new generation of medical imaging. The grant will fund research in which two or more medical imaging techniques are combined to provide complementary information. </p>
+        <p class="style5">Part of a new field called nanobiotechnology, the UB scientists are designing these nanoparticle systems to contain multiple contrast agents for different imaging medical techniques. </p>
+        <p class="style5">The goal is to diagnose cancer and other diseases in their earliest stages by providing far more comprehensive data to clinicians. </p>
+        <p class="style5">Click <a href="docs/hybrid%20nanoparticles.doc" target="_blank" class="style15">here</a> to read the entire article.</p>
+        
+        <!-- <hr align="center" size="10" />&nbsp; -->
+                            <!--  <p align="left" class="style13"><strong>Magnetic Field Acts as &quot;Remote Control&quot; to Deliver Nanomedicine </strong></p>
+        <p class="style5"><font size="2">A nanoparticle-based drug delivery concept in which an applied magnetic field directs the accumulation in tumor cells of custom-designed, drug-filled nanocarriers has been demonstrated by University at Buffalo researchers. </p>
+        <p class="style5">The new approach, recently published in Molecular Pharmaceutics, may lead to treatments that exploit the advantages of photodynamic therapy (PDT) and that have the potential to reduce drug accumulation in normal tissues. </p>
+        <p class="style5">Click <a href="docs/remote_control.doc" target="_blank">here</a> to read the entire article. </p>
+       
+        <!-- <hr align="center" size="10" />&nbsp; -->
+                            <!--  <p class="style13"><strong>Top University to Award Prasad Its Highest Honor</strong></p>
+        <p class="style5"><font size="2">Zhejiang University (ZJU), one of China's top research universities, traditionally bestows its most prestigious award, the honorary professorship, on Nobel Laureates and its honorary doctorate on world leaders. </p>
+        <p class="style5">Past recipients include Nobel laureates in physics, such as David Gross and T.D. Lee, and Nobel laureates in economics, such as James A. Mirrlees, Robert Mundell and Robert&nbsp;W.&nbsp;Fogel. World leaders, such as Kofi Anan, secretary general of the United Nations, have been recipients as well. </p>
+        <p class="style5">This year, for the first time, ZJU is awarding the honorary professorship not to a world leader or to a Nobel laureate, but to a University at Buffalo scientist who has earned a global reputation as a leader in the fields of photonics, biophotonics and nanophotonics, as well as a champion of world-class scientific research in developing countries. </p>
+        <p class="style5">This fall, Paras N. Prasad, Ph.D., SUNY Distinguished Professor in the Department of Chemistry at UB and executive director of its Institute for Lasers, Photonics and Biophotonics, will travel to China to receive the honorary professorship in a dedication ceremony at ZJU </p>
+        <p class="style5">Click <a href="docs/prasad_award.doc" target="_blank">here</a> to read the entire article. </p>
+       
+        <!-- <hr align="center" size="10" />&nbsp; -->
+                            <!--  <p class="style13"><strong>Prasad Named One of World's Top 50 in Science</strong></p>
+        <p class="style5"><font size="2">Paras N. Prasad, Ph.D., SUNY Distinguished Professor in the Department of Chemistry at the University at Buffalo, has been named one of the Scientific American 50, the prestigious magazine's annual list of &quot;outstanding acts of leadership in science and technology from the past year.&quot; </p>
+        <p class="style5">Prasad was selected for his research using customized nanoparticles developed by him and his colleagues to achieve gene therapy, avoiding the need to rely on potentially toxic viruses as vectors. </p>
+        <p class="style5">CLick <a href="docs/prasad%20top%2050.doc" target="_blank"><span class="style15">here</span></a> to read the entire article. </p>
+        <p class="style5">&nbsp;</p>-->
+                            <p align="justify" class="style3">For more UB news about ILPB, <a href="http://www.buffalo.edu/news/searchresults.html?CFC__target=http%3A%2F%2Fsearch.buffalo.edu%2Fsearch&output=xml_no_dtd&client=ubcms&proxystylesheet=ubcms&sitesearch=www.buffalo.edu%2Fnews&entqr=3&entqrm=0&oe=UTF-8&ie=UTF-8&ud=1&sort=date%3AD%3AS%3Ad1&q=ilpb&requiredfields="> click here</a>. </p>
+                            <!-- InstanceEndEditable -->
+                            <!-- END CONTENT -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

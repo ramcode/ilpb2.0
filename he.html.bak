@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>The Institute for Lasers, Photonics and Biophotonics - University at Buffalo</title>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="SlideTrans.js"></script>
+</head>
+
+<body ng-app>
+    <div class="header">
+        <div class="outernav" ng-include="'nav.html'"></div>
+        <div class="title" align="center">
+            <div style="position:relative; float:left; left:50%;">
+                <div style="position:relative; float:left; right:50%;">
+                    <style type="text/css">
+                    .container_banner,
+                    .container_banner img {
+                        width: 282px;
+                        height: 249px;
+                    }
+                    
+                    ;
+                    </style>
+                    <div class="container_banner" id="idContainer" style="float:left; display:inline; vertical-align:top">
+                        <table id="idSlider" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td><img src="images/banner11.jpg" /></td>
+                                <td><img src="images/banner13.jpg" /></td>
+                                <td><img src="images/banner14.jpg" /></td>
+                                <td><img src="images/banner12.jpg" /></td>
+                                <td><img src="images/banner15.jpg" /></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="container_image" style="display:inline; float:left; vertiacl-align:bottom; margin:5px">
+                        <img src="images/banner02.jpg" width=594px; height=244px;/>
+                    </div>
+                    <script>
+                    new SlideTrans("idContainer", "idSlider", 5, {
+                        Vertical: false
+                    }).Run();
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="wrap">
+        <div class="pagewrapper">
+            <div class="innerpagewrapper">
+                <div class="page">
+                    <div class="content">
+                        <!-- CONTENT -->
+                        <table width="520" align="center">
+                            <tr>
+                                <td width="300">
+                                    <h3><em>
+						<!-- InstanceBeginEditable name="name" -->
+							Guang S. He, Ph.D.
+						<!-- InstanceEndEditable -->
+							</em></h3>
+                                </td>
+                                <td width="220">
+                                    <p align="right">
+                                        <!-- InstanceBeginEditable name="image" -->
+                                        <!--							<img src="" width="185" height="225" />	-->
+                                        <!-- InstanceEndEditable -->
+                                    </p>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- InstanceBeginEditable name="description" -->
+                        <p class="style4"><strong> Multi-photon related fundamental studies and applications: </strong></p>
+                        <ul class="style4">
+                            <li>Multi-photon pumped frequency-upconversion lasing</li>
+                            <li>Multi-photon absorption based optical power limiting and stabilization</li>
+                            <li> Multi-photon excitation enhanced stimulated Rayleigh-Bragg scattering</li>
+                            <li> Novel nonlinear multi-photon spectroscopy using intense continuum generation</li>
+                            <li> Dynamic studies of ultrafast multi-photon excitation processes</li>
+                        </ul>
+                        <p class="style4"><strong> Novel nonlinear optical effects studies </strong></p>
+                        <ul class="style4">
+                            <li> Optical phase-conjugation with backward stimulated emission from lasing media</li>
+                            <li> Stimulated Mie-Bragg scattering in nanoparticle suspension</li>
+                            <li> Multi-photon resonance-enhanced refractive-index change and self-focusing</li>
+                            <li> Multi-photon enhanced spatial soliton formed by third-order harmonic generation</li>
+                        </ul>
+                        <p class="style4"><strong> Novel photonics devices </strong></p>
+                        <ul class="style4">
+                            <li> Dye-doped polymer core or coating based fiber lasers and amplifiers</li>
+                            <li> Liquid core filled fiber lasers</li>
+                            <li> Multi-photon active core filled optical fiber power limiter and stabilizer</li>
+                            <li> Leaking waveguide laser devices</li>
+                        </ul>
+                        <!-- InstanceEndEditable -->
+                        <p>&nbsp;</p>
+                        <!-- END CONTENT -->
+                    </div>
+                    <div class="sidebar">
+                        <div ng-include="'latest_news.html'"></div>
+                        <div ng-include="'links.html'"></div>
+                    </div>
+                    <div class="footer" ng-include="'footer.html'"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<!-- InstanceEnd -->
+
+</html>

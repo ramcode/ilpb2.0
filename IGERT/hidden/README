@@ -1,0 +1,163 @@
+	     Welcome to the JavaScript Password System (JPS)
+	     ===============================================
+
+What is it?:
+------------
+The Javascript Password System (JPS) allows you to restrict access to your
+web pages by supplying "authorised" users with a password which they
+can use to view the protected pages. It works by using hidden
+directories on the web server and Javascript. So you need no web
+server (CGI) access at all to use it. The program can change the hidden
+directory on a regular basis without the need to supply your users
+with a new password.
+
+Manifest:
+---------
+This archive includes:-
+README		- This file. Instructions on installing and using the
+		  JavaScript Password System.
+README.html	- HTML version of README file.
+COPYING		- Copy of Gnu Public License.
+Enter.html	- HTML and Javascript that invites user to enter a password
+		  which it then uses to move the browser to a hidden
+		  directory.
+Generate.html	- HTML and Javascript that the author of the web page can
+		  use to determine the required hidden directory names.
+jpslock.gif	- JPS logo image.
+
+Installing:
+-----------
+To install you simply need to follow these steps:-
+
+1) Edit the options in the file Enter.html
+
+   You have four options. The first two (changetype & changen)
+   determine how often the script will automatically change the
+   directory that it redirects the browser to, when the user gives a
+   password. changetype can be either "DAYS", "WEEKS", or "MONTHS"
+   determining whether the directory should change every day, week, or
+   month. changen determines how many days, weeks or months the
+   directory should change. So for example if you set changetype to
+   "WEEKS" and changen to "3" then the directory would change every 3
+   weeks.
+
+   If you set codeoverride to anything but "-1" then the first two
+   options will be ignored and the directory will not change, unless
+   either a new password is used or the codeoverride option is changed
+   again. 
+
+   The final option (baseurl) is the most important. This *must* be
+   altered to refer to your site, and where your hidden directory will
+   be. The script will turn the password given into a special code
+   which is then attached to the end of baseurl. So if baseurl is set
+   to "http://yourhost/yourpath/Private/" and the code produced is
+   "XYZ123" then the url that your browser will be set to will be
+   "http://yourhost/yourpath/Private/XYZ123/"
+
+2) Place it on the web server, and link your web pages to it.
+   It does not matter what you call the password entry page. For
+   example you could place it in
+   "http://yourhost/yourpath/Private/index.html" then when a user
+   visited your private pages they would be asked for a password.
+
+3) Set up your hidden directory
+   Enter the password you intend to use into the form in Generate.html
+   (you do not need to install Generate.html into the web server, you
+   can just load it into your browser on your local hard-drive).
+   Set the same options as you have used in Enter.html and click on
+   the Submit button. Your browser will then display the next 10 codes
+   and the dates at which they are active. You should use the first
+   code as the directory to place your hidden files, so if you have
+   set baseurl to "http://yourhost/yourpath/Private/" and the first
+   code is "XYZ123" then you should place your private files in the
+   directory "http://yourhost/yourpath/Private/XYZ123/" on the web
+   server. When you get to the date shown next to the second code you
+   will have to move the directory to coincide with the new code. If
+   you decide to change the password, use up all 10 of the codes
+   given, or forget what the next code should be, you can simply
+   re-enter the details into the Generate.html file in your browser.
+
+4) Ensure that the Private directory is private.
+   If your private directory is "../Private/<code>" then you must
+   ensure that there is an index file in the private directory (eg
+   "../Private/index.html") otherwise the web server will produce an
+   index file automatically and will display your hidden directory for
+   all to see. The best way to do this is either to place the
+   "Enter.html" file in the directory as index.html or place a
+   index.html file in the directory that tells the user that they may
+   not continue without giving a password.
+
+5) Tell your authorised users.
+   Now all you need to do is hand out the password to all those you
+   want to have access to your hidden pages. But don't forget to move
+   the hidden directory every time the code changes.
+
+How Does it Work?:
+------------------
+The system uses the present date and the options given to produce an
+encryption code which is then used to convert the password given to a
+different code that can change automatically every so-many days, weeks
+or months. This code is then used as a directory name on a web server
+that cannot be seen unless you know where it is. It has advantages
+over just hiding a directory on a web server and telling people where
+it is as you can give people a simple, easy-to-remember password and
+have a fairly complex directory name, and with the system using the
+date as an encryption code the hidden directory can change regularly
+without having to continuously change the password given to
+users. This reduces the amount of people who should not be viewing the
+pages from getting to them, and if they do, it reduces the time that
+they can.
+
+How Secure is it?:
+------------------
+It is not perfect but it is slightly better than just a simple hidden
+directory as the directory changes regularly. It is not possible to
+work out what the hidden directory is without the password by looking
+as the JavaScript code as the JavaScript code has no reference to the
+hidden directory, it just creates a URL from the password and gets the
+browser to try it, if it is the right one then the user will find
+themselves in the hidden pages, otherwise the web server will give a
+file not found error. The system could be cracked by brute force
+although it would be likely to produce a large amount of errors to
+appear in the server logs of the web server which *might* be noticed,
+however there is no major limit to the size of the password making
+brute force cracking methods less effective. It is possible, if the
+hidden directory is known, to work out what the given password was, as
+it is not one-way encryption (maybe in version 2 this may change). It
+is also of course suseptable to users giving out the password to
+others without your permission and is limited to just the one password
+(unless you want to use lots of symbolic links, although this just
+increases the chances of someone guessing the password).
+
+Overall though, if you are only using hidden directories now then this
+will be an improvement, although if you can actually get the web server
+to do proper user authentication then that is recommended.
+
+Should you discover that the password has been compromised, then you
+should change the password and move your pages to the new location.
+Then set up an index file in the old location to inform users that the
+password has changed, and how to obtain the new one.
+
+Copying/Cost:
+-------------
+This code is protected under the Gnu Public License (See
+COPYING). You are free to make use of it as you wish. However if you
+find it useful do drop us an e-mail to tell us what you are using it
+for at:-
+	jps@bloodaxe.demon.co.uk 
+to let us know that our effort was not a complete waste of time :-) 
+Use the same address if you have any problems or suggestions.
+
+Finally:
+-------
+It may be worth noting that although this system will work pretty
+much anywhere, some free-access web servers (such as GeoCities) do
+state that hiding directories and passwording is against their
+policy. So do be sure to check. It's up to you, but you have been
+warned :-)
+
+			 --------------------
+
+For further details (Updates Etc.) check the JPS homepage at:-
+
+	      <URL:http://www.bloodaxe.demon.co.uk/JPS/>

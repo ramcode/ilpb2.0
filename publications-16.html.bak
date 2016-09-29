@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="js/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+    </script>
+    <script src="js/app.js" type="text/javascript">
+    </script>
+    <title>The Institute for Lasers, Photonics and Biophotonics - University at Buffalo</title>
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="container-fluid">
+            <div id="ub-header">
+            </div>
+        </div>
+        <div class="container-main">
+            <div id="navbar">
+            </div>
+            <div id="container-title">
+            </div>
+            <div class="page-content">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="content">
+                            <!-- CONTENT -->
+                            <!-- InstanceBeginEditable name="Content" -->
+                            <h4 class="page-title"> 2016 </h4>
+                            <ul>
+                                <li><b>
+     Chromogenesis-based Resonance Raman molecular sensor for reactive oxygen species</b> Heo, J.; Lim, C.K.; Baev, A.; Kuzmin, A.N.; Park, S.Y.; Prasad, P.N.; Kim, S.; <i>Dyes and Pigments ,</i> (2016), 7: 162-167 DOI:10.1016/j.dyepig.2016.03.029;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+                            Efficient Broadband Upconversion of Near-Infrared Light in Dye-Sensitized Core/Shell Nanocrystals</b> Chen, G.; Shao W.; Valiev, R.R.; Ohulchanskyy, T.Y.; He, G.S.; &Aring;gren, H.; Prasad, P.N.; <i> Advanced Optical Materials, </i> (2016), DOI:10.1002/adom.201600556; </li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Emerging nanomedicine approaches to targeting HIV-1 and antiretroviral therapy</b> Kutscher, H.L.; Prasad, P.N.; Morse, G.D.; Reynolds, J.L.; <i>Future Virology ,</i> (2016), 11(2): 101-104 DOI:10.2217/fvl.15.114;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+    In-situ second harmonic generation by cancer cell targeting ZnO nanocrystals to effect photodynamic action in subcellular space</b> Gu, B.; Pliss, A.; Kuzmin, A.N.; Baev, A.; Ohulchanskyy, T.Y.; Damasco, J.; Yong, K.T.; Wen, S.; Prasad, P.N.; <i>Biomaterials, </i> (2016), 104:78-86 DOI:10.1016/j.biomaterials.2016.07.012;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+                        Manganese-doped near-infrared emitting nanocrystals for in vivo biomedical imaging</b> Law, W.C.; Xu, Z.; Yong, K.T.; Liu, X.; Swihart, M.T.; Seshadri, M.; Prasad, P.N.; <i> Optical Society of America, </i> (2016), 24(16): 17553-17561 DOI:10.1364/OE.24.017553;</li>
+                            </ul>
+                            <ul>
+                                <li> <b>
+                            Manipulating Magneto-Optic Properties of a Chiral Polymer by Doping with Stable Organic Biradicals</b> Lim, C.K.; Cho, M.J.; Singh, A.; Li, Q.; Kim, W.J.; Jee, H.S.; Fillman, K.L.; Carpenter, S.H.; Neidig, M.L.; Baev, A.; Swihart, M.T.; Prasad, P.N.; <i> Nano Letters, </i> (2016), DOI:10.1021/acs.nanolett.6b01874; </li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Mapping of intracellular concentrations of macromolecules by two-photon excited fluorescence lifetime imaging</b> Liu L.; Pliss,A.; Peng,X.; Kuzmin,A.; Qu, J.; Prasad, P.N.; <i>Proc. SPIE 9712, Multiphoton Microscopy in the Biomedical Sciences XVI, 971221</i> (2016), DOI:10.1117/12.2211889;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Molecular nonlinear optics: recent advances and applications</b> Gu, B.; Zhao, C.; Baev, A.; Yong, K.T.; Wen, S.; Prasad, P.N.; <i>Advances in Optics and Photonics ,</i> (2016), 8(2): 328-369 DOI:10.1364/AOP.8.000328;</li>
+                            </ul>
+                            <ul>
+                                <li> <b>
+    Multifunctional Photonics Nanoparticles for Crossing the Blood–Brain Barrier and Effecting Optically Trackable Brain Theranostics</b> Singh, A.; Kim, W.; Kim, Y.; Jeong, K.; Kang, C.S.; Kim, Y.S.; Koh, J.; Mahajan. S.D.; Prasad, P.N.; Kim, S.; <i>Advanced Functional Materials,</i> (2016), DOI:10.1002/adfm.201602808;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Nanochemistry and Nanomedicine for Nanoparticle-based Diagnostics and Therapy</b> Chen, G.; Roy, I.; Yang, C.; Prasad, P.N.; <i>Chemical Reviews ,</i> (2016), 116(5): 2826-2885 DOI:10.1021/acs.chemrev.5b00148;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+    Near-IR responsive nanostructures for nanobiophotonics: emerging impacts on nanomedicine</b> Song, J.; Qu, J.; Swihart. M.T.; Prasad, P.N.; <i>Nanomedicine: Nanotechnology, Biology and Medicine, </i> (2016), 12(3): 771–788 DOI:10.1016/j.nano.2015.11.009;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     New fluorene-based chiral copolymers with unusually high optical activity in pristine and annealed thin films</b> Cho, M.J.; Ahn, J.; Um. H.A.; Prasad, P.N.; Lee, G.J.; Choi, D.H.; <i>RSC Advances ,</i> (2016), 6(28): 23879-23886 DOI:10.1039/C5RA26523A;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Optical Actuation of Inorganic/Organic Interfaces: Comparing Peptide-Azobenzene Ligand Reconfiguration on Gold and Silver Nanoparticles</b> Palafox-Hernandez, J.P.; Lim, C.K.; Tang, Z.; Drew, K.L.M.; Hughes, Z.E.; Li,Y; Swihart, M.T.; Prasad, P.N.; Knecht, M.R.; Walsh, T.R.; <i>ACS Applied Materials &amp; Interfaces ,</i> (2016), 8: 1050-1060 DOI:10.1021/acsami.5b11989;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Plasmon-Enhanced Two-Photon-Induced Isomerization for Highly-Localized Light-Based Actuation of Inorganic/Organic Interfaces</b> Lim, C.K.; Li, X.; Li, Y.; Drew, K.; Palafox-Hernandez, J.P.; Tang, Z.; Baev, A.; Kuzmin, A; Knecht, M.R.; Walsh, T.; Swihart, M.T.; Agren, H.; Prasad, P.N.; <i>Nanoscale ,</i> (2016), 8: 4194-4202 DOI:10.1039/x0xx00000x;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+    Plasmonically enhanced optical nonlinearities in anisotropic arrays of gold nanorods supported in polymeric film</b> Cantillo, M.E.M.; Morais, H.T.M.B.; Gomes, A.S.; Araújo, C.B.de.; Park, K.; Vaia, R.; Prasad, P.N.; <i> Optical Society of America, </i> (2016), LW4A.4 DOI:10.1364/LAOP.2016.LW4A.4; </li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Resonance Raman Probes for Organelle-Specific Labeling in Live Cells</b> Kuzmin, A.N.; Pliss, A.; Lim, C.K.; Heo, J.; Kim, S.; Rzhevskii, A.; Gu, B.; Yong, K.T.; Wen, S.; Prasad, P.N.; <i>Scientific Reports, </i> (2016), 6:28483 DOI:10.1038/srep28483;</li>
+                            </ul>
+                            <ul>
+                                <li><b>
+     Twisted Thiophene-Based Chromophores with Enhanced Intramolecular Charge Transfer for Cooperative Amplification of Third-Order Optical Nonlinearity</b> Teran,N.B.; He,G.S; Baev,A.; Shi,Y.; Swihart,M.T; Prasad,P.N.; Marks, T.J.; Reynolds, J.R.; <i>Journal of the American Chemical Society ,</i> (2016), 138(22), 6975-6984 DOI:10.1021/jacs.5b12457;</li>
+                            </ul>
+                            <p align="center">
+                                <a href="publications.html"> Click here to go to the index of publications</a>
+                            </p>
+                            <!-- InstanceEndEditable -->
+                            <!-- END CONTENT -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

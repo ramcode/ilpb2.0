@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="js/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+    </script>
+    <script src="js/app.js" type="text/javascript">
+    </script>
+    <title>The Institute for Lasers, Photonics and Biophotonics - University at Buffalo</title>
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="container-fluid">
+            <div id="ub-header">
+            </div>
+        </div>
+        <div class="container-main">
+            <div id="navbar">
+            </div>
+            <div id="container-title">
+            </div>
+            <div class="page-content">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="content">
+                            <h4 class="page-title"> Faculty </h4>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/ajaysingh.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Ajay Singh, Ph.D.</h4>
+                                        <br/> Postdoctoral Associate, ILPB
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 450 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> 716-645-4156
+                                        <br />
+                                        <a href="mailto:asingh46@buffalo.edu">asingh46@buffalo.edu</a>
+                                        <br />
+                                        <b> Research Areas: </b> Organic Synthesis, Nanomedicine, Drug Delivery, Photoacoustic Imaging, Molecular Imaging
+                                        <!-- END CONTENT -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="baev.html" target="_self">
+                                            <h4> Alexander Baev, Ph.D.</h4> </a>
+                                        <br/> Research Scientist, ILPB
+                                        <br /> Institute for Lasers, Photonics and Biophotonics
+                                        <br /> 432 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14214
+                                        <br /> (716) 645-4150
+                                        <br />
+                                        <a href="mailto:abaev@acsu.buffalo.edu">abaev@acsu.buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu/baev.html">www.photonics.buffalo.edu/baev</a>
+                                        <br/>
+                                        <b>Research Areas:</b> Theoretical and Computational Physics and Chemistry
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/kachynski.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="kachynski.html">
+                                            <h4> Aliaksandr V. Kachynski, Ph.D. </h4></a>
+                                        <br /> Research Associate Professor, ILPB
+                                        <br /> Institute for Lasers, Photonics and Biophotonics
+                                        <br /> 458 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14214
+                                        <br /> (716) 645-4152
+                                        <br />
+                                        <a href="mailto:akachyn@buffalo.edu">akachyn@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu/kachynski.html">www.photonics.buffalo.edu/kachynski</a>
+                                        <br/> <b>Research Areas:</b> Lasers-scanning microscopy, Imaging technologies for medical and biological applications
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/cartwright.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.ee.buffalo.edu/faculty/cartwright" target="_blank">
+                                            <h4>Alexander N. Cartwright, Ph.D.</h4> </a>
+                                        <br /> Director, Lasers and Photonics
+                                        <br />
+                                        <p>Professor, Department of Electrical Engineering, Laboratory for Advanced Spectroscopic Evaluation (LASE), School of Engineering and Applied Sciences
+                                        </p>
+                                        <br/>
+                                        <p>Professor, Department of Biomedical Engineering, School of Engineering and Applied Sciences
+                                        </p>
+                                        <p>Adjunct Professor, Department of Physics, College of Arts and Sciences
+                                        </p>
+                                        <br/>
+                                        <p>
+                                            Department of Electrical Engineering
+                                            <br /> 230K Davis Hall
+                                            <br /> University at Buffalo
+                                            <br /> Buffalo, NY 14260
+                                            <br /> (716) 645-1053 Ext. 1205
+                                            <br /> FAX: (716) 645-3656
+                                            <br />
+                                            <a href="mailto:anc@eng.buffalo.edu">anc@eng.buffalo.edu</a>
+                                            <br/><a href="http://www.ee.buffalo.edu/faculty/cartwright" target="_blank">www.ee.buffalo.edu/faculty/cartwright</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=344" target="_blank"><h4> Andrei Kabashin, Ph.D.</h4></a>
+                                        <br /> Research Associate Professor, ILPB
+                                        <br /> Department of Engineering Physics
+                                        <br /> Case Postale 6079, succ. Centre-ville
+                                        <br /> Ecole Polytechnique de Montreal
+                                        <br /> Montreal Quebec, H3C 3A7
+                                        <br /> (514) 340-4711
+                                        <br />
+                                        <a href="mailto:andrei.kabashin@polymtl.ca">andrei.kabashin@polymtl.ca</a>
+                                        <br />
+                                        <a href="http://www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=344" target="_blank">www.polymtl.ca/recherche/rc/en/professeurs/details.php?NoProf=344</a>
+                                        <br/> <b> Research Areas:</b> Laser Physics
+                                        <br />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/kuzmin.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info"><a href="kuzmin.html"><h4>Andrey Kuzmin, Ph.D.</h4></a>
+                                        <br /> Senior Research Scientist, ILPB
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 436 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14214
+                                        <br /> (716) 645-4152
+                                        <br /> Fax: (716) 645-6945
+                                        <br />
+                                        <a href="mailto:ankuzmin@acsu.buffalo.edu">ankuzmin@acsu.buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu/kuzmin">www.photonics.buffalo.edu/kuzmin</a>
+                                        <br/><b>Research Areas:</b> Microscopy and imaging technologies for medical and biological applications including Laser Tweezing, Micro-Raman Spectroscopy, Coherent anti-Stokes Raman Scattering (CARS), Flow Cytometrery, Micron Size Resolution Thermal Imaging
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Arindam Sen, Ph.D. </h4>
+                                        <br /> Research Associate Professor, ILPB
+                                        <br /> Department of Immunology, Director of Graduate Studies and Admissions,
+                                        <br /> Molecular and Cellular Biophysics and Biochemistry Graduate Program,</br>Roswell Park Cancer Institute,
+                                        <br /> (716) 845-8911
+                                        <br />
+                                        <a href="mailto:arindam.sen@roswellpark.org">arindam.sen@roswellpark.org</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Artem M. Pliss, Ph.D. </h4>
+                                        <br /> Research Assistant Professor, ILPB
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 432 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-4150
+                                        <br /> FAX: (716) 645-6945
+                                        <br />
+                                        <a href="mailto:ampliss@buffalo.edu">ampliss@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu">www.photonics.buffalo.edu</a>
+                                        <br/><b>Research Areas:</b>Cell and Molecular Biology, Bioimaging
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Bing Gong, Ph.D. </h4>
+                                        <br /> Associate Professor, Department of Chemistry
+                                        <br /> 811 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260
+                                        <br /> (716) 829-6800 Ext. 2243
+                                        <br /> FAX: (716) 645-6963
+                                        <br />
+                                        <a href="mailto:baholm@buffalo.edu">bgong@buffalo.edu</a>
+                                        <br/> <b> Research Areas:</b> Bioinspired Materials for Photonics
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Chang-Keun Lim, Ph.D.</h4>
+                                        <br/> Research Associate, ILPB
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 450 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14214
+                                        <br /> 716-645-4156
+                                        <br />
+                                        <a href="mailto:changkeu@buffalo.edu">changkeu@buffalo.edu</a>
+                                        <br />
+                                        <a href="https://scholar.google.com/citations?user=K2tQuKgAAAAJ&hl=en">https://scholar.google.com/citations?user=K2tQuKgAAAAJ&hl=en</a>
+                                        <br/> <b> Research Areas: </b> Optical probes for biomedical applications, Switchable bionanocombinatorics, Perovskite solar cell </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/Furlani.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="furlani.html"><h4>Edward P. Furlani, Ph.D.</h4></a>
+                                        <br/> Research Professor, ILPB
+                                        <br /> Professor, Depts. of Chemical/Biological &nbsp; Electrical Engineering
+                                        <br />614 Furnas Hall
+                                        <br /> University at Buffalo (SUNY)
+                                        <br /> Buffalo, NY 14260-4200
+                                        <br /> (716)645-1194(Office)
+                                        <br/><a href="mailto:efurnali@buffalo.edu">efurlani@buffalo.edu</a>
+                                        <br/><a href="http://www.photonics.buffalo.edu/furlani.html">www.photonics.buffalo.edu/furlani</a>
+                                        <br/><a href="http://www.cbe.buffalo.edu/people/full_time/e_furlani.php">www.cbe.buffalo.edu/people/full_time/e_furlani.php</a>
+                                        <br /> <b> Research Areas: </b>: Theoretical and Computational Physics, MEMS, Microfluidics, Applied Magnetism
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="he.html">
+                                            <h4> Guang S. He, Ph.D. </h4></a>
+                                        <br/> Senior Research Scientist, ILPB
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 458 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-4146
+                                        <br />
+                                        <a href="mailto:gshe@buffalo.edu">gshe@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu/he.html">www.photonics.buffalo.edu/he</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Guanying Chen, Ph.D. </h4>
+                                        <br/> Research Associate Professor, ILPB</p>
+                                        Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 458 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-4163
+                                        <br/><a href="mailto:guanying@buffalo.edu">guanying@buffalo.edu</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/hans2.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.theochem.kth.se/people/agren/" target="_blank"><h4> Hans &Aring;gren, Ph.D.</h4></a>
+                                        <br/> Professor and Head of the Department of Theoretical Chemistry at the Royal Institute of Technology (KTH), Sweden
+                                        <br /> Department of Theoretical Chemistry
+                                        <br /> Royal Institute of Technology
+                                        <br /> Roslagstullsbacken 15
+                                        <br /> S-106 91 Stockholm, Sweden
+                                        <br /> Phone: +46 8 5537 8416
+                                        <br /> FAX:+46 8 5537 8590
+                                        <br />
+                                        <a href="mailto:agren@theochem.kth.se">agren@theochem.kth.se</a>
+                                        <br />
+                                        <a href="http://www.theochem.kth.se/people/agren/" target="_blank">www.theochem.kth.se/people/agren</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Ho-Pui Ho, Ph.D.</h4>
+                                        <br/> Associate Professor, Department of Electronic Engineering
+                                        <br /> The Chinese University of Hong Kong
+                                        <br /> Shatin, New Territories
+                                        <br /> Hong Kong SAR
+                                        <br /> +85226097000 / +85226096000
+                                        <br />
+                                        <a href="mailto:hphp@ee.cuhk.edu.hk">hpho@ee.cuhk.edu.hk</a>
+                                        <br /> <b> Research Areas:</b> Bioinspired Materials for Photonics
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/roy.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="roy.html"><h4>Indrajit Roy, Ph.D.</h4></a>
+                                        <br/> Research Assistant Professor, ILPB
+                                        <br /> Deputy Director, Biophotonics Division, ILPB
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 458 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-4163
+                                        <br /> FAX: (716) 645-6945
+                                        <br />
+                                        <a href="mailto:iroy@buffalo.edu">iroy@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu/roy.html">www.photonics.buffalo.edu/roy</a>
+                                        <br/> <b> Research Areas: </b>: Nanomedicine, Drug Delivery, Molecular Imaging
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Junle Qu, Ph.D. </h4>
+                                        <br/> Research Professor, ILPB
+                                        <br /> Associate Professor, Institute of Optoelectronics
+                                        <br /> Shenzhen University,
+                                        <br /> 3688 Nanhai Rd. Shenzhen,
+                                        <br /> Guangdong Province,
+                                        <br /> 518060 China
+                                        <br /> 86-755-26534384
+                                        <br />
+                                        <a href="mailto:jlqu@szu.edu.cn">jlqu@szu.edu.cn</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Ken-Tye Yong, Ph.D. </h4>
+                                        <br/> Research Associate Professor, ILPB
+                                        <br /> School of Electrical and Electronic Engineering,
+                                        <br />Nanyang Technological University,
+                                        <br/> 50 Nanyang Avenue,
+                                        <br /> Singapore 6339798
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Kwang-Sup Lee, Ph.D. </h4>
+                                        <br/> Research Professor, ILPB
+                                        <br/> Professor, Department of Polymer Science &amp; Engineering
+                                        <br /> Hannam University
+                                        <br /> 133 Ojung-Dong
+                                        <br /> Daejeon 306-791
+                                        <br /> South Korea
+                                        <br /> +82-(0)42-629-7394
+                                        <br />
+                                        <a href="mailto:baholm@buffalo.edu"></a><a href="mailto:kslee@hannam.aac.kr">kslee@hannam.aac.kr</a>
+                                        </br>
+                                        Research Areas: Polymers
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://laserspark.anu.edu.au/%7Emjs111" target="_blank"><h4>Marek Samoc, Ph.D.</h4></a>
+                                        <br/> Research Professor, ILPB
+                                        <br/> Institute for Lasers, Photonics and Biophotonics
+                                        <br /> 458 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-6800 Ext. 2221
+                                        <br /> FAX: (716) 645-6945</p>
+                                        <br/><a href="mailto:mjsamoc@buffalo.edu">mjsamoc@buffalo.edu</a>
+                                        <br/>Laser Physics Centre
+                                        <br /> Australian National University
+                                        <br /> Canberra, ACT
+                                        <br /> Australia
+                                        <br /> 02-6125-4611
+                                        <br />
+                                        <a href="mailto:mjs111@rsphy1.anu.edu.au">mjs111@rsphy1.anu.edu.au</a>
+                                        <br/> <a href="http://laserspark.anu.edu.au/%7Emjs111" target="_blank">laserspark.anu.edu.au/~mjs111</a>
+                                        <br>
+                                        <b> Research Areas: </b>: Nonlinear Optical Processes, Photocharge Generation</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/m_swihart.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.cbe.buffalo.edu/people/full_time/m_swihart.php" target="_blank"><h4> Mark T. Swihart, Ph.D. </h4></a>
+                                        <br/> Research Professor, ILPB
+                                        <br/> Professor, Chemical and Biological Engineering
+                                        <br /> 907 Furnas Hall
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260
+                                        <br /> (716) 645-2911 Ext. 2205
+                                        <br /> FAX: (716) 645-3822
+                                        <br />
+                                        <a href="mailto:swihart@eng.buffalo.edu">swihart@eng.buffalo.edu</a>
+                                        <a href="http://www.cbe.buffalo.edu/people/full_time/m_swihart.php" target="_blank">www.cbe.buffalo.edu/people/full_time/m_swihart.php</a>
+                                        <br /> <b> Research Areas: </b>: Nanoparticles, Laser Chemical Vapor Deposition of Nanoparticles </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/prasad_new.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="prasad.html"><h4>Paras N. Prasad, Ph.D.</h4></a>
+                                        <br/> Distinguished Professor of Chemistry, Physics, Medicine and
+                                        <br /> Electrical Engineering
+                                        <br /> Executive Director ILPB
+                                        <br/> Institute for Lasers, Photonics and Biophotonics
+                                        <br /> 428 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-4147
+                                        <br /> FAX: (716) 645-6945
+                                        <br />
+                                        <a href="mailto:pnprasad@buffalo.edu">pnprasad@buffalo.edu </a>
+                                        <br/><a href="http://www.photonics.buffalo.edu/prasad">www.photonics.buffalo.edu/prasad</a>
+                                        <br /> <b> Research Areas:</b> Lasers, Photonics and Biophotonics</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.RPCIflow.org" target="_blank"><h4>Paul K Wallace, Ph.D.</h4></a>
+                                        <br/>Clinical Assistant Professor, Department Biotechnical and Clinical Laboratory Sciences
+                                        <br /> Associate Professor, Department of Pathology
+                                        <br /> Director, Department of Flow & Image Cytometry
+                                        <br /> S635 Roswell Park Cancer Institute
+                                        <br /> Buffalo, NY 14263
+                                        <br /> (716) 845-8471
+                                        <br /><a href="index.html">The Institute for Lasers, Photonics and Biophotonics - University at Buffalo</a>
+                                        <br/> FAX: (716) 845-8806
+                                        <br />
+                                        <a href="mailto:pkw@RPCIflow.org">pkw@RPCIflow.org</a>
+                                        <br />
+                                        <a href="http://www.RPCIflow.org" target="_blank">www.RPCIflow.org</a>
+                                        <br />
+                                        <b> Research Areas: </b> Immunology, Microbiology, In vitro diagnostics, Flow Cytometry
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/pknight.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.smbs.buffalo.edu/wcmpi/Faculty/knight.html" target="_blank"><h4> Paul R Knight III, M.D., Ph.D.</h4></a>
+                                        <br/> SUNY Distinguished Professor, Anesthesiology, and Microbiology and Immunology
+                                        <br /> Senior Vice Chairman, Department of Anesthesiology
+                                        <br /> Director, Medical Scientist Training Program (MSTP) for the UB Medical School
+                                        <br /> Departments of Anesthesiology, Microbiology and Immunology
+                                        <br /> 245 Biomedical Research Building
+                                        <br /> University at Buffalo
+                                        <br /> 3435 Main Street
+                                        <br /> Buffalo, NY 14214
+                                        <br /> (716) 829-2172
+                                        <br /> Fax: (716) 829-3889
+                                        <br />
+                                        <a href="mailto:pknight@buffalo.edu">pknight@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.smbs.buffalo.edu/wcmpi/Faculty/knight.html" target="_blank">www.smbs.buffalo.edu/wcmpi/Faculty/knight</a>
+                                        <br />
+                                        <b> Research Areas: </b> Anesthesiology, Critical Care Medicine, Microbiology, and Immunology
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.roswellpark.org/Research/Research_Staff/Pandey_RavindraK__PhD" target="_blank"><h4> Ravindra K. Pandey, Ph.D.</h4></a>
+                                        <br/> Research Professor, Institute for Lasers, Photonics and Biophotonics
+                                        <br /> Biophysical Sciences
+                                        <br /> H2 Roswell Park Cancer Institute
+                                        <br /> Elm and Carlton Streets
+                                        <br /> Buffalo, NY 14263
+                                        <br /> (716) 845-3203
+                                        <br /> FAX: (716) 845-8920
+                                        <br />
+                                        <a href="mailto:radindra.pandey@roswellpark.org">radindra.pandey@roswellpark.org</a>
+                                        <br />
+                                        <a href="http://www.roswellpark.org/Research/Research_Staff/Pandey_RavindraK__PhD" target="_blank">www.roswellpark.org/Research/Research_Staff/Pandey_RavindraK__PhD</a>
+                                        <br /> <b> Research Areas:</b> PDT
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/profile-placeholder.png"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <h4> Shermali Gunawardena, Ph.D. </h4>
+                                        <br/> Research Assistant Professor, ILPB
+                                        <br/> Assistant Professor, Department of Biological Sciences
+                                        <br /> 109 Cooke Hall
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260
+                                        <br /> (716) 645-2363 Ext. 105
+                                        <br /> FAX: (716) 645-6945
+                                        <br />
+                                        <a href="mailto:sg99@buffalo.edu">sg99@buffalo.edu</a>
+                                        <br />
+                                        <b> Research Areas: </b> Axonal Transport, Neurodegeneration, Nanomedicine
+                                        <br />
+                                        <br />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/sasimmun.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="http://www.smbs.buffalo.edu/med/air/index.php" target="_blank"><h4>Stanley A Schwartz, M.D. </h4></a>
+                                        <br/> Professor: Medicine, Pediatrics & Microbiology
+                                        <br /> Director, Division of Allergy, Immunology, & Rheumatology
+                                        <br /> Department of Medicine, Pediatrics, Microbiology, Immunology
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo General Hospital
+                                        <br /> 100 High Street
+                                        <br /> Buffalo, NY 14203
+                                        <br /> (716) 859-2985
+                                        <br /> FAX: (716) 859-2999
+                                        <br />
+                                        <a href="mailto:sasimmun@buffalo.edu">sasimmun@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.smbs.buffalo.edu/med/air/index.php" target="_blank">www.smbs.buffalo.edu/med/air/index.htm</a>
+                                        <br />
+                                        <b> Research Areas: </b> Medicine, Microbiology, Immunology
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/smahajan.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="https://medicine.buffalo.edu/faculty/profile.html?ubit=smahajan" target="_blank">
+                                            <h4> Supriya D Mahajan, Ph.D.</h4> </a>
+                                        <br/> Research Assistant Professor, ILPB
+                                        <br /> Department of Medicine, Pediatrics, Microbiology and Immunology
+                                        <br /> Buffalo General Hospital
+                                        <br /> 100 High Street
+                                        <br /> Buffalo, NY 14203
+                                        <br /> (716) 859-2994
+                                        <br /> FAX: (716) 859-2999
+                                        <br />
+                                        <a href="mailto:smahajan@buffalo.edu">smahajan@buffalo.edu</a>
+                                        <br />
+                                        <b> Research Areas: </b> Neuroimmunology/Neuropathogenesis of HIV/ Blood Brain Barrier Function
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                                    <div class="profile-img">
+                                        <img class="img-responsive" src="images/TYOhulchanskyy1.jpg"> </div>
+                                </div>
+                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+                                    <div class="profile-info">
+                                        <a href="ohulchanskyy.html">
+                                            <h4> Tymish Y. Ohulchanskyy, Ph.D. </h4> </a>
+                                        <br/> Research Associate Professor, ILPB
+                                        <br /> Deputy Director, Photomedicine
+                                        <br /> Institute For Lasers, Photonics And Biophotonics
+                                        <br /> 458 Natural Science Complex
+                                        <br /> University at Buffalo
+                                        <br /> Buffalo, NY 14260-3000
+                                        <br /> (716) 645-4164
+                                        <br /> FAX: (716) 645-6945
+                                        <br />
+                                        <a href="mailto:tyo2@buffalo.edu">tyo2@buffalo.edu</a>
+                                        <br />
+                                        <a href="http://www.photonics.buffalo.edu/ohulchanskyy.html">www.photonics.buffalo.edu/ohulchanskyy</a>
+                                        <br/> <b> Research Areas: </b> Photomedicine, Optical Imaging Probes for BioMedical Applications, Nanostructured photonic materials
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

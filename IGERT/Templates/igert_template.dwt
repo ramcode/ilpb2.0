@@ -1,0 +1,68 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>IGERT -- Index</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../CSS/Level3_1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div align="center">
+  <table width="800" border="2" bordercolor="#000000" bgcolor="#FFFFFF">
+        <td height="139" colspan="3"><div align="center">
+              <p><img src="../ublogo_trans_1line_blue.gif" width="500" height="36"></p>
+              <h2>Biophotonics: Materials and Applications<br>
+                          An Integrative Graduate Education and Research Traineeship (IGERT) Program <br></h2>
+						  </div>
+            </td>
+          <td width="147" height="139"  ><img src="../nsf.gif" width="132" height="76">       </td>
+   </table>
+        <table width ="800" border="2" bordercolor="#000000">
+          <tr>
+            <td width="200" align="left" valign="top"  >
+			<table align="left" border="2" bordercolor="#000000" bgcolor="#FFFFFF">
+                <tr>
+                  <td width="196" height="40"><div align="center"><a href="../index.html"><strong>Introduction</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../participant_list.htm"><strong>List of Participants</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../vision.htm"><strong>Program Vision and Goals</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../research.html"><strong>Research Topics</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../education.htm"><strong>Education and Training</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../recruitment.htm"><strong>Recruitment and Retention</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../organization.htm"><strong>Organization and Management</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../facilities.htm"><strong>Facilities and Equipment</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../IGERT_fellows.htm"><strong>IGERT Fellows</strong></a></div></td>
+                </tr>
+                <tr>
+                  <td height="40"><div align="center"><a href="../pictures.htm"><strong>Pictures </strong></a></div></td>
+                </tr>
+            </table></td>
+            <td width="590" align="left" valign="top"  ><!-- #BeginEditable "Text" -->
+              <p><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif">{Text}</font></p>
+              <p align="center">&nbsp;</p>
+            <!-- #EndEditable --></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top"  >&nbsp;</td>
+            <td align="left" valign="top"  ><div align="center"><font size="3"><b><i><font size="3" face="Arial, Helvetica, sans-serif">Sponsored by the <a href="http://www.nsf.gov/igert">National Science Foundation</a></font></i></b></font></div></td>
+          </tr>
+        </table>
+</div>
+</body>
+</html>
